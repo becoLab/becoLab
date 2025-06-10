@@ -30,7 +30,7 @@
 </p>
 <hr>
  
-<!-- 블로그 --><a href="http://beco-lab.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/></a>&nbsp;<!-- 지메일 --><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPVnckhSFHKcsQjjbZHDDjtsQWrqLbJDRSCQqQzjWNLBffXkdnpscFxPdPBrxTpMXdwg"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>&nbsp;
+<!-- 블로그 --><a href="http://beco-lab.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=plastic&logo=Tistory&logoColor=white"/></a>&nbsp;<!-- 지메일 --><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPVnckhSFHKcsQjjbZHDDjtsQWrqLbJDRSCQqQzjWNLBffXkdnpscFxPdPBrxTpMXdwg"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>&nbsp;
 
  
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=footer)
