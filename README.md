@@ -16,7 +16,12 @@
 <hr>
  
 <!-- 블로그 --><a href="http://bettercoding.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/></a>&nbsp;<!-- 지메일 --><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPVnckhSFHKcsQjjbZHDDjtsQWrqLbJDRSCQqQzjWNLBffXkdnpscFxPdPBrxTpMXdwg"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>&nbsp;<!-- 노션 --><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPVnckhSFHKcsQjjbZHDDjtsQWrqLbJDRSCQqQzjWNLBffXkdnpscFxPdPBrxTpMXdwg"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
- 
+
+
+ ### 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
  
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=footer)
 </div>
