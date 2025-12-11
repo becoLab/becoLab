@@ -18,11 +18,12 @@ class Settings(BaseSettings):
 
     # API 요청 설정
     api_timeout: int = 10  # 초
-    api_retry_count: int = 3
+    api_retry_count: int = 311
 
-    class Config:
-        env_file = ".env"
-        case_sensitive = False
+    model_config = {
+        "env_file": ".env",
+        "case_sensitive": False
+    }
 
 
 @lru_cache()
